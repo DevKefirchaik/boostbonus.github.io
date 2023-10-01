@@ -1,0 +1,20 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "RED",
+      "online": 2,
+      "ip": "5.39.108.55",
+      "port": 1361
+    },
+    {
+      "color": "FFFF00",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "YELLOW",
+      "online": 2,
+      "ip": "5.39.108.55",
+      "port": 1361
+    }
+]
